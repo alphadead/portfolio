@@ -214,7 +214,7 @@ section .title::after{
     font-size: 40p;
 }
 .about .title::after{
-    content: "Who i am";
+    content: "Who am I";
 }
 .about .about-content .left{
     width: 45%;
