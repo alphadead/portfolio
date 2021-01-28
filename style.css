@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "Previous work";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -381,7 +381,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "Previous Work";
+    content: "who with me";
 }
 .teams .carousel .card{
     background: #222;
@@ -441,7 +441,6 @@ section .title::after{
 .owl-dot:hover{
     background: crimson!important;
 }
-
 /* contact section styling */
 .contact .title::after{
     content: "Get in touch";
